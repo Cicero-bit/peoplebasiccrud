@@ -32,19 +32,17 @@ Dependências:
 
      Web -> É uma aplicação WEB, Utilizado para receber requisições e responder
 
-     PostgreSQL -> Utilizado esse BANCO no ambiente de desenvolvimento e produção.
-
-     LomBok -> Utilizado para evitar muitas linhas de código.
+     LomBok -> Simplificador de codigo.
 
 Programas Utilizados :
 
     Postman - Utilizado para fazer as requisições API
     
-    VS Code - IDE escolhida para desenvolver o projeto.
+    VS Code - IDE do projeto.
     
     pgAdmin4 - Plataforma utilizada para fazer a manipulação e a leitura dos dados de uma base de dados do banco PostgreSQL.
     
-    Git e GitHub - Utilizados para commitar o projeto e subir o código para a nuvem(remoto).
+    Git e GitHub - Utilizados para commitar o projeto e subir o codigo.
 
 Bancos de Dados :
 
