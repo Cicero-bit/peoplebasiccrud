@@ -2,7 +2,7 @@
 
 ## APLICAÇÃO :
 
-Essa é uma aplicação de CRUD básico em que consiste em manipular dados no banco através da entidade Pessoa.
+Essa é uma aplicação de CRUD básico em que consiste em manipular dados no banco através da entidade Person.
 
 ## FUNCIONALIDADES :
 
@@ -28,17 +28,17 @@ Back end:
 
 Dependências:
 
-     Data JPA - > Utilizando o JPA para fazer a ponte entre o banco de dados e a aplicação -> ORM
+     Data JPA - > Utilizando o JPA para fazer a ponte entre o banco de dados e a aplicação
 
-     Web -> É uma aplicação WEB, Utilizado para receber requisições, devolver uma resposta ...
+     Web -> É uma aplicação WEB, Utilizado para receber requisições e responder
 
      PostgreSQL -> Utilizado esse BANCO no ambiente de desenvolvimento e produção.
 
-     LomBok -> Utilizado para evitar muitas linhas de código através de annotations.
+     LomBok -> Utilizado para evitar muitas linhas de código.
 
 Programas Utilizados :
 
-    Postman - Utilizado para fazer as requisições (CONSUMIR) a aplicação.
+    Postman - Utilizado para fazer as requisições API
     
     VS Code - IDE escolhida para desenvolver o projeto.
     
